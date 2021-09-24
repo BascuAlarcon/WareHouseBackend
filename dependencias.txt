@@ -1,0 +1,5 @@
+Instalamos con Nudget PackAge
+	EntityFrameworkCore 		3.1.4
+	EntityFrameworkCore.SqlServer 	3.1.4
+	ntityFrameworkCore.Tools 	3.1.4
+
